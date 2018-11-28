@@ -1,2 +1,2 @@
 
-App showing weather and close most visited places of the chosen city
+App showing weather and closest most visited places of the chosen city
